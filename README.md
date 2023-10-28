@@ -3,10 +3,13 @@
 The assignments in BAN400 are organized through Github and Github Classroom. By accepting this assignment, the repository will be copied to your Github user so that you can clone it to your own personal machine and work on it. Then, you simply commit your changes and push back to Github when you are done. You can commit and push as much as you want before the deadline.
 
 **Date:**
+28.10.2023
 
 **Name:**
+Mona Amundsen 
 
 **Student number:**
+232741
 
 ## :information_source: Problem 1
 Update the personal information above.
